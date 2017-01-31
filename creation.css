@@ -1,0 +1,38 @@
+body {margin:0;overflow:auto;text-align:center;font-family:arial,verdana,sans-serif;font-size:14px;background:black}
+#page {position:relative;width:760px;height:460px;text-align:center;margin-left:auto;margin-right:auto;background-image:url(boutons/creafon7.gif)}
+#lien0 {position:absolute;width:111px;height:111px;right:20px;top:69px;}
+#lien20 {position:absolute;width:111px;height:111px;right:20px;top:69px;visibility:hidden;}
+#lien11 {position:absolute;width:131px;height:91px;left:10px;bottom:79px;}
+#lien12 {position:absolute;width:131px;height:91px;left:10px;bottom:79px;visibility:hidden;}
+#lien1 {position:absolute;width:200px;height:40px;left:70px;top:1px;}
+#lien2 {position:absolute;width:200px;height:40px;left:49px;top:42px;}
+#lien3 {position:absolute;width:200px;height:40px;left:30px;top:83px;}
+#lien4 {position:absolute;width:200px;height:40px;left:16px;top:124px;}
+#lien5 {position:absolute;width:200px;height:40px;left:0px;top:165px;}
+#lien6 {position:absolute;width:200px;height:40px;right:0px;bottom:165px;}
+#lien7 {position:absolute;width:200px;height:40px;right:16px;bottom:124px;}
+#lien8 {position:absolute;width:200px;height:40px;right:33px;bottom:83px;}
+#lien9 {position:absolute;width:200px;height:40px;right:50px;bottom:42px;}
+#lien10 {position:absolute;width:200px;height:40px;right:70px;bottom:1px;}
+#lien21 {position:absolute;width:200px;height:40px;left:70px;top:1px;visibility:hidden;}
+#lien22 {position:absolute;width:200px;height:40px;left:50px;top:42px;visibility:hidden;}
+#lien23 {position:absolute;width:200px;height:40px;left:33px;top:83px;visibility:hidden;}
+#lien24 {position:absolute;width:200px;height:40px;left:16px;top:124px;visibility:hidden;}
+#lien25 {position:absolute;width:200px;height:40px;left:0px;top:165px;visibility:hidden;}
+#lien26 {position:absolute;width:200px;height:40px;right:0px;bottom:165px;visibility:hidden;}
+#lien27 {position:absolute;width:200px;height:40px;right:16px;bottom:124px;visibility:hidden;}
+#lien28 {position:absolute;width:200px;height:40px;right:33px;bottom:83px;visibility:hidden;}
+#lien29 {position:absolute;width:200px;height:40px;right:50px;bottom:42px;visibility:hidden;}
+#lien30 {position:absolute;width:200px;height:40px;right:70px;bottom:1px;visibility:hidden;}
+#com0,#com1,#com2,#com3,#com4,#com5,#com6,#com7,#com8,#com9,#com10,#com11{position:absolute;width:270px;height:160px;left:245px;top:150px;visibility:hidden;color:white;background:black;}
+#bond {position:absolute;top:50px;right:39px;}
+#copy {position:absolute;width:67px;height:36px;top:5px;right:0px;} 
+#stats {position:absolute;width:39px;height:25px;bottom:0px;left:0px;}
+#droitref {position:absolute;top:50px;left:180px;width:400px;height:300px;text-align:center;color:white;float:right;z-index:-1;}
+hr {color:red}
+.vert {color:lime}
+.jaune {color:yellow}
+img {border:0}
+body{
+    background-color: #00ff83
+}
